@@ -1,0 +1,10 @@
+package t01;
+//main메소드 없이 실행할 경우 최근에 사용한 main메소드가 실행됨(이 프로그램x)
+public class Test4 {
+	public static void main(String[] args) { //main메소드: 실행메소드 void:리턴값 없을 때 사용
+	//args: argument, 변수명. 인수, 인자. 앞에 타입이 나와야 함. String: 문자열을 의미 []: 배열
+	//args라는 변수를 문자열 배열로 이용할 것이라는 의미
+		System.out.println("반갑습니다.");
+		System.out.println("반갑습니다.");
+	}
+}

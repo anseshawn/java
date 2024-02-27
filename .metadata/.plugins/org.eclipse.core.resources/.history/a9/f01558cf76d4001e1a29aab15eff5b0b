@@ -1,0 +1,5 @@
+package t01;
+//main메소드 없이 실행할 경우 최근에 사용한 main메소드가 실행됨(이 프로그램x)
+public class Test4 {
+
+}
